@@ -1,0 +1,57 @@
+ParentName,Hospital Name,Address,Location,Postcode,CEO/EO Site,Hospital Email,Telephone,Fax,RegistrarTypeCode
+"Alfred Health","Alfred Health","c/- The Alfred, 55 Commercial Road Melbourne VIC 3004","Melbourne","3004","Andrew Way","ceo@alfred.org.au","03 9076 2000","03 9076 3409","AU"
+"Alfred Health","Caulfield Hospital","260 Kooyong Road Caulfield VIC 3162","Caulfield","3162","Andrew Way","publicaffairs@alfred.org.au","03 9076 6000","03 9076 6434","AG"
+"Alfred Health","Sandringham Hospital","193 Bluff Road Sandringham VIC 3191","Sandringham","3191","Andrew Way","publicaffairs@alfred.org.au","03 9076 1000","03 9598 1539","AG"
+"Alfred Health","The Alfred","55 Commercial Road Melbourne VIC 3004","Melbourne","3004","Andrew Way","publicaffairs@alfred.org.au","03 9076 2000","03 9076 2222","AG"
+"Austin Health","Austin Health","145 Studley Road Heidelberg VIC 3084","Heidelberg","3084","Sue Shilbury","marie.ellis@austin.org.au","03 9496 5000","03 9458 4779","AU"
+"Austin Health","Austin Health - Austin Hospital","145 Studley Road Heidelberg VIC 3084","Heidelberg","3084","Sue Shilbury","marie.ellis@austin.org.au","03 9496 5000","03 9458 4779","AG"
+"Austin Health","Austin Health - Heidelberg Repatriation Hospital","300 Waterdale Road Heidelberg Heights VIC 3081","Heidelberg Heights","3081","Sue Shilbury","marie.ellis@austin.org.au","03 9496 5000","03 9496 2541","AG"
+"Austin Health","Royal Talbot Rehabilitation Centre","1 Yarra Boulevard Kew VIC 3101","Kew","3101","Sue Shilbury","marie.ellis@austin.org.au","03 9490 7500","03 9490 7501","AG"
+"Calvary Health Care Bethlehem Ltd.","Calvary Health Care Bethlehem Ltd.","476 Kooyong Road Caulfield VIC 3162","Caulfield","3162","Jane Fischer","jane.fischer@calvarycare.org.au","03 9596 2853","03 9596 8998","AU"
+"Dental Health Services Victoria","Dental Health Services Victoria","720 Swanston Street Carlton VIC 3053","Carlton","3053","Deborah Cole","dhsv@dhsv.org.au","03 9341 1000","03 9341 1111","AU"
+"Eastern Health","Eastern Health","Level 4, 5 Arnold Street Box Hill VIC 3128","Box Hill","3128","David Plunkett","johnferraro@easternhealth.org.au","03 9895 4888","03 9895 4844","AU"
+"Eastern Health","Angliss Hospital","Albert Street Upper Ferntree Gully VIC 3156","Upper Ferntree Gully","3156","David Plunkett","johnferraro@easternhealth.org.au","03 9764 6111","03 9764 6399","AG"
+"Eastern Health","Box Hill Hospital","51 Nelson Road Box Hill VIC 3128","Box Hill","3128","David Plunkett","johnferraro@easternhealth.org.au","03 9895 3333","03 9895 3268","AG"
+"Eastern Health","Healesville and District Hospital","377 Maroondah Highway Healesville VIC 3777","Healesville","3777","David Plunkett","healesville.hospital@easternhealth.org.au","03 5962 4300","03 5962 2226","AG"
+"Eastern Health","Maroondah Hospital","1-15 Mt Dandenong Rd Davey Drive East Ringwood VIC 3135","East Ringwood","3135","David Plunkett","maroondah.hospital@maroondah.org.au","03 9871 3333","03 9879 1570","AG"
+"Eastern Health","Peter James Centre, The","321-345 Burwood Hwy Forest Hill VIC 3131","Forest Hill","3131","David Plunkett","johnferraro@easternhealth.org.au","03 9881 1888","03 9881 1801","AG"
+"Eastern Health","Wantirna Health","251 Mountain Highway Wantirna VIC 3152","Wantirna","3152","David Plunkett","n/a","03 9955 1200","03 9955 1384","AG"
+"Eastern Health","Yarra Ranges Health","25 Market Street Lilydale VIC 3140","Lilydale","3140","David Plunkett","yarraranges@easternhealth.org.au","03 9091 8888","03 9091 8899","AG"
+"Melbourne Health","Melbourne Health","Level 8 South, RMH, 300 Grattan Street Parkville VIC 3050","Parkville","3050","Christine Kilpatrick","enquiries@mh.org.au","03 9342 7000","03 9342 8555","AU"
+"Melbourne Health","Royal Melbourne Hospital - City Campus","300 Grattan Street Parkville VIC 3050","Parkville","3050","Christine Kilpatrick","enquiries@mh.org.au","03 9342 7000","03 9342 7802","AG"
+"Melbourne Health","Royal Melbourne Hospital - Royal Park Campus","34-55 Poplar Road Parkville VIC 3052","Parkville","3052","Christine Kilpatrick","enquiries@mh.org.au","03 8387 2000","03 8387 2222","AG"
+"Mercy Hospitals Victoria Limited","Mercy Hospitals Victoria Limited","Level 2, 12 Shelley Street Richmond VIC 3121","Richmond","3121","Linda Mellors","information@mercy.com.au","03 8416 7777","03 8416 7888","AU"
+"Mercy Hospitals Victoria Limited","Mercy Health - O'Connell Family Centre","6 Mont Albert Road Canterbury VIC 3126","Canterbury","3126","Linda Mellors","ofc_reception@mercy.com.au","03 8416 7600","03 9816 9729","AG"
+"Mercy Hospitals Victoria Limited","Mercy Hospital for Women","163 Studley Road Heidelberg VIC 3084","Heidelberg","3084","Linda Mellors","mercyhw@mercy.com.au","03 8458 4444","n/a","AG"
+"Mercy Hospitals Victoria Limited","Werribee Mercy Hospital","300 Princes Highway Werribee VIC 3030","Werribee","3030","Linda Mellors","werribee@mercy.com.au","03 9216 8888","03 9216 8777","AG"
+"Monash Health","Monash Health","246 Clayton Road Clayton VIC 3168","Clayton","3168","Andrew Stripp","publicaffairs@monashhealth.org.au","03 9594 6666","03 9594 6590","AU"
+"Monash Health","Casey Hospital","52 Kangan Drive Berwick VIC 3806","Berwick","3806","Andrew Stripp","publicaffairs@monashhealth.org.au","03 8768 1200","n/a","AG"
+"Monash Health","Cranbourne Integrated Care Centre","140-154 Sladen Street Cranbourne VIC 3977","Cranbourne","3977","Andrew Stripp","publicaffairs@monashhealth.org.au","03 5990 6789","n/a","AG"
+"Monash Health","Dandenong Hospital","105-135 David Street Dandenong VIC 3175","Dandenong","3175","Andrew Stripp","publicaffairs@monashhealth.org.au","03 9554 1000","03 9554 1120","AG"
+"Monash Health","Kingston Centre","400 Warrigal Rd Cheltenham VIC 3192","Cheltenham","3192","Andrew Stripp","publicaffairs@monashhealth.org.au","03 9265 1000","03 9265 1100","AG"
+"Monash Health","Monash Medical Centre, Clayton Campus","246 Clayton Road Clayton VIC 3168","Clayton","3168","Andrew Stripp","publicaffairs@monashhealth.org.au","03 9594 6666","03 9594 6111","AG"
+"Monash Health","Monash Medical Centre, Moorabbin Campus","865 Centre Road East Bentleigh VIC 3165","East Bentleigh","3165","Andrew Stripp","publicaffairs@monashhealth.org.au","03 9928 8111","03 9928 8752","AG"
+"Northern Health","Northern Health","201 Bell Street Preston VIC 3072","Preston","3072","Siva Sivarajah","corporatecommunication@nh.org.au","03 9495 0400","03 9495 1084","AU"
+"Northern Health","Broadmeadows Health Service","35 Johnstone St Broadmeadows VIC 3047","Broadmeadows","3047","Siva Sivarajah","corporatecommunication@nh.org.au","03 8345 5000","03 8345 5655","AG"
+"Northern Health","Bundoora Extended Care Centre","1231 Plenty Road Bundoora VIC 3083","Bundoora","3083","Siva Sivarajah","corporatecommunication@nh.org.au","03 9495 3100","03 9467 4365","AG"
+"Northern Health","Craigieburn Health Service","350 Craigieburn Road West Craigieburn VIC 3064","Craigieburn","3064","Siva Sivarajah","corporatecommunication@nh.org.au","03 9485 9130","03 9495 1084","AG"
+"Northern Health","PANCH Health Service","300 Bell Street Preston VIC 3072","Preston","3072","Siva Sivarajah","corporatecommunication@nh.org.au","03 9485 9000","03 9485 9010","AG"
+"Northern Health","The Northern Hospital","185 Cooper Street Epping VIC 3076","Epping","3076","Siva Sivarajah","corporatecommunication@nh.org.au","03 8405 8000","03 8403 8524","AG"
+"Peninsula Health","Peninsula Health","c/- Frankston Hospital, Hastings Roa dFrankston VIC 3199","Frankston","3199","Felicity Topp","publicrelations@phcn.vic.gov.au","03 9784 8211","03 9784 7134","AU"
+"Peninsula Health","Frankston Hospital","Hastings Rd Frankston VIC 3199","Frankston","3199","Felicity Topp","publicrelations@phcn.vic.gov.au","03 9784 7777","03 9784 7774","AG"
+"Peninsula Health","Mount Eliza Rehabilitation, Aged and Palliative Care","33 Jacksons Rd Mt Eliza VIC 3930","Mt Eliza","3930","Felicity Topp","publicrelations@phcn.vic.gov.au","03 9788 1200","03 9787 4435","AG"
+"Peninsula Health","Rosebud Hospital","1527 Point Nepean Road Rosebud VIC 3939","Rosebud","3939","Felicity Topp","publicrelations@phcn.vic.gov.au","03 5986 0666","03 5986 7589","AG"
+"Peter MacCallum Cancer Institute","Peter MacCallum Cancer Institute","305 Grattan Street Melbourne VIC 3000","Melbourne","3000","Nicole Tweddle","n/a","03 9656 1111","03 9656 1400","AU"
+"Queen Elizabeth Centre","Queen Elizabeth Centre","53 Thomas Street Noble Park VIC 3174","Noble Park","3174","Sue White","theqec@qec.org.au","03 9549 2777","03 9549 2779","AU"
+"St Vincent's Health","St Vincent's Health","41 Victoria Parade Fitzroy VIC 3065","Fitzroy","3065","Angela Nolan","n/a","03 9288 2211","03 9288 3399","AU"
+"St Vincent's Health","Caritas Christi Hospice Ltd","104 Studley Park Road Kew VIC 3101","Kew","3101","Angela Nolan","n/a","03 3853 2344","03 9853 1509","AG"
+"St Vincent's Health","St George's Health Service","283 Cotham Road Kew VIC 3101","Kew","3101","Angela Nolan","n/a","03 98160444","03 98175325","AG"
+"St Vincent's Health","St Vincent's Hospital (Melbourne) Ltd","41 Victoria Parade Fitzroy VIC 3065","Fitzroy","3065","Angela Nolan","n/a","03 9288 2211","03 9288 3918","AG"
+"The Royal Children's Hospital","The Royal Children's Hospital","50 Flemington Road Parkville VIC 3052","Parkville","3052","John Stanway","n/a","03 9345 5522","03 9345 5789","AU"
+"The Royal Victorian Eye and Ear Hospital","The Royal Victorian Eye and Ear Hospital","32 Gisborne Street East Melbourne VIC 3002","East Melbourne","3002","Mark Petty","info@eyeandear.org.au","03 9929 8666","03 9663 7203","AU"
+"The Royal Women's Hospital","The Royal Women's Hospital","Levels 6 & 7 Cnr Grattan St & Flemington RdParkville VIC 3052","Parkville","3052","Sue Matthews","communications@thewomens.org.au","03 8345 2000","n/a","AU"
+"Tweddle Child and Family Health Service","Tweddle Child and Family Health Service","53 Adelaide Street Footscray VIC 3011","Footscray","3011","Jacquie O'Brien","tweddle@tweddle.org.au.","03 9689 1577","03 9689 1922","AU"
+"Western Health","Western Health","160 Gordon Street Footscray VIC 3011","Footscray","3011","Russell Harrison","n/a","03 8345 6666","03 8345 7815","AU"
+"Western Health","Footscray Hospital","160 Gordon Street Footscray VIC 3011","Footscray","3011","Russell Harrison","n/a","03 8345 6666","03 9318 7815","AG"
+"Western Health","Sunshine Hospital","176 Furlong Road St Albans VIC 3021","St Albans","3021","Russell Harrison","n/a","03 8345 1333","03 9366 0088","AG"
+"Western Health","Williamstown Hospital","77b Railway Crescent Williamstown VIC 3016","Williamstown","3016","Russell Harrison","n/a","03 9393 0100","03 9393 0158","AG"

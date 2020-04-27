@@ -1,0 +1,68 @@
+Hospital Name,Address,Location,Postcode,CEO/EO Site,Hospital Email,Telephone,Fax
+"Albury Wodonga Health","69 Vermont Street Wodonga VIC 3690","Wodonga","3690","Janet Chapman","ceo@awh.org.au","02 6058 4780","02 6058 4680"
+"Alexandra District Health","20 Cooper Street Alexandra VIC 3714","Alexandra","3714","Debbie Rogers","alexandra@humehealth.org.au","03 5772 0900","03 5772 0919"
+"Alpine Health","30 O'Donnell Avenue Myrtleford VIC 3737","Myrtleford","3737","Lyndon Seys","lyndon.seys@alpinehealth.org.au","03 5751 9300","03 5751 9396"
+"Bairnsdale Regional Health Service","122 Day St Bairnsdale VIC 3875","Bairnsdale","3875","Robyn Hayles","email@brhs.com.au","03 5150 3333","03 5150 3367"
+"Ballarat Health Services","Drummond Street North Ballarat VIC 3353","Ballarat","3353","Dale Fraser","info@bhs.org.au","03 5320 4000","03 5320 4828"
+"Barwon Health","272-322 Ryrie Street Geelong VIC 3220","Geelong","3220","Frances Diver","postmaster@barwonhealth.org.au","03 4215 0000","03 5226 7672"
+"Bass Coast Health","235 Graham Street Wonthaggi VIC 3995","Wonthaggi","3995","Jan Child","n/a","03 5671 3333","03 5671 3300"
+"Beaufort and Skipton Health Service","28 Havelock Street Beaufort VIC 3373","Beaufort","3373","Meryn Pease","ceo@bshs.org.au","03 5349 1600","03 5349 2744"
+"Beechworth Health Service","52 Sydney Road Beechworth VIC 3747","Beechworth","3747","Mark Ashcroft","beechworth.health.service@hume.org.au","03 5728 0200","03 5728 2288"
+"Benalla Health","45-63 Coster Street Benalla VIC 3672","Benalla","3672","Janine Holland","executive@benallahealth.org.au","03 5761 4222","03 5761 4246"
+"Bendigo Health","62 Lucan St Bendigo VIC 3550","Bendigo","3550","Peter Faulkner","n/a","03 5454 6000","03 5441 0375"
+"Boort District Health","31 Kiniry Street Boort VIC 3537","Boort","3537","Darren Clarke","admin@bdh.vic.gov.au","03 5451 5200","03 5455 2502"
+"Casterton Memorial Hospital","63-69 Russell Street Casterton VIC 3311","Casterton","3311","Owen Stephens","mail@cmh.org.au","03 5554 2555","03 5581 1051"
+"Castlemaine Health","142 Cornish Street Castlemaine VIC 3450","Castlemaine","3450","Ian Fisher","ceo@castlemainehealth.org.au","03 5471 1555","03 5472 4546"
+"Central Gippsland Health Service","155 Guthridge Parade Sale VIC 3850","Sale","3850","Frank Evans","enquiries@cghs.com.au","03 5144 4111","03 5149 6633"
+"Central Highlands Rural Health","13 Hospital Street Daylesford VIC 3460","Daylesford","3460","Maree Cuddihy","info@hhs.vic.gov.au","03 5321 6500","03 5321 6546"
+"Cohuna District Hospital","144-158 King George Street Cohuna VIC 3568","Cohuna","3568","Benjamin Maw","info@cdh.vic.gov.au","03 5456 5300","03 5456 2435"
+"Colac Area Health","2-28 Conner St Colac VIC 3250","Colac","3250","Fiona Brew","cah@swarh.vic.gov.au","03 5232 5100","03 5230 0199"
+"Corryong Health","20 Kiell Street Corryong VIC 3707","Corryong","3707","Dominic Sandilands","dominic.sandilands@corryonghealth.org.au","02 6076 3200","02 6076 1739"
+"Djerriwarrh Health Services","Lot 4 Grant Street Bacchus Marsh VIC 3340","Bacchus Marsh","3340","Belinda Scott","info@djhs.org.au","03 5367 2000","03 5367 4537"
+"East Grampians Health Service","Lot 5B Girdlestone Street Ararat VIC 3377","Ararat","3377","Andrew Freeman","info@eghs.net.au","03 5352 9300","03 5352 4612"
+"East Wimmera Health Service","52 North Western Road St Arnaud VIC 3478","St Arnaud","3478","Trevor Adem","info@ewhs.org.au","03 5477 2100","03 5477 2131"
+"Echuca Regional Health","9-27 Frances Street Echuca VIC 3564","Echuca","3564","Nick Bush","erhexec@erh.org.au","03 5485 5000","03 5482 5478"
+"Edenhope and District Hospital","128-134 Elizabeth Street Edenhope VIC 3318","Edenhope","3318","Andrew Saunders","info@edmh.org.au","03 5585 9800","03 5585 9891"
+"Gippsland Southern Health Service","66 Koonwarra Road Leongatha VIC 3953","Leongatha","3953","Mark Johnson","info@gshs.com.au","03 5667 5555","03 5667 5516"
+"Goulburn Valley Health","2 Graham Street Shepparton VIC 3630","Shepparton","3630","Matt Sharp","enquiry@gvhealth.org.au","03 5832 2322","03 5821 1648"
+"Heathcote Health","39 Hospital Street Heathcote VIC 3523","Heathcote","3523","Dan Douglass","admin@heathcotehealth.org","03 5431 0900","03 5433 3049"
+"Hesse Rural Health Service","8 Gosney Street Winchelsea VIC 3241","Winchelsea","3241","Peter Birkett","hesse@swarh.vic.gov.au","03 5267 1200","03 5267 1215"
+"Heywood Rural Health","21 Barclay Street Heywood VIC 3304","Heywood","3304","Roslyn Jones","rfjones.hrh@swarh.vic.gov.au","03 5527 1204","03 5527 1900"
+"Inglewood and District Health Service","3 Hospital Street Inglewood VIC 3517","Inglewood","3517","Tracey Wilson","admin@idhs.vic.gov.au","03 5431 7000","03 5431 7004"
+"Kerang District Health","13 Burgoyne Street Kerang VIC 3579","Kerang","3579","Robert Jarman","kerhosp@kerhosp.vic.gov.au","03 5450 9200","03 5450 9209"
+"Kilmore and District Hospital","Rutledge Street Kilmore VIC 3764","Kilmore","3764","Susan Race","races@humehealth.org.au","03 5734 2000","03 5782 2019"
+"Kooweerup Regional Health Service","Rossiter Rd Kooweerup VIC 3981","Kooweerup","3981","Frank Megens","megensf@krhs.net.au","03 5997 9679","03 5997 1248"
+"Kyabram District Health Service","88 Fenaughty Street Kyabram VIC 3620","Kyabram","3620","David Edwards","info@kyhealth.org.au","03 5857 0200","03 5852 2445"
+"Latrobe Regional Hospital","Cnr Princes Highway & Village Avenue Traralgon West VIC 3844","Traralgon West","3844","Peter Craighead","enquiries@lrh.com.au","03 5173 8000","03 5173 8444"
+"Maldon Hospital","Chapel Street Maldon VIC 3463","Maldon","3463","Ian Fisher","maldhosp@castlemainehealth.org.au","03 5475 1006","03 5475 2029"
+"Mallee Track Health and Community Service","28 Britt Street Ouyen VIC 3490","Ouyen","3490","Lois O'Callaghan","locallaghan@mthcs.vic.gov.au","03 5092 1111","03 5092 1177"
+"Mansfield District Hospital","53 Highett Street Mansfield VIC 3722","Mansfield","3722","Cameron Butler","reception.main@mdh.org.au","03 5775 8800","03 5775 1352"
+"Maryborough District Health Service","75-87 Clarendon St Maryborough VIC 3465","Maryborough","3465","Terry Welch","mdhs@mdhs.vic.gov.au","03 5461 0333","03 5461 4489"
+"Melton Health","195-209 Barries Road Melton VIC 3337","Melton","3337","Belinda Scott","info@djhs.org.au","03 9747 7600","03 8746 2072"
+"Mildura Base Hospital","231-237 Thirteenth Street Mildura VIC 3500","Mildura","3500","Julia Morgan","morganj@ramsayhealth.com.au","03 5022 3333","03 5022 3470"
+"Moyne Health Services","Villiers Street Port Fairy VIC 3284","Port Fairy","3284","Jackie Kelly","reception@moynehealth.vic.gov.au","03 5568 0100","03 5568 0158"
+"Northeast Health Wangaratta","35-47 Green Street Wangaratta VIC 3677","Wangaratta","3677","Margaret Bennett","n/a","03 5722 5111","03 5722 0109"
+"Omeo District Health","12 Easton Street Omeo VIC 3898","Omeo","3898","Ward Steet","reception@omeohs.com.au","03 5159 0100","03 5159 0194"
+"Orbost Regional Health","104 Boundary Road Orbost VIC 3888","Orbost","3888","Vicki Farthing","reception@orh.com.au","03 5154 6666","03 5154 2366"
+"Portland District Health","Bentinck Street Portland VIC 3305","Portland","3305","Christine Giles","pdh@swarh.vic.gov.au","03 5521 0333","03 5521 0358"
+"Robinvale District Health Services","128-132 Latje Road Robinvale VIC 3549","Robinvale","3549","Mara Richards","mrichards@rdhs.com.au","03 5051 8111","03 5051 8100"
+"Rochester and Elmore District Health Service","1 Pascoe Street Rochester VIC 3561","Rochester","3561","Anne McEvoy","rochhosp@redhs.com.au","03 5484 4400","03 5484 2291"
+"Rural Northwest Health","Lot 1 Dimboola Road Warracknabeal VIC 3393","Warracknabeal","3393","Kevin Mills","reception@rnh.net.au","03 5396 1200","03 5396 1210"
+"Seymour Health","Lot 2 Bretonneux Street Seymour VIC 3660","Seymour","3660","Chris McDonnell","info@seymourhealth.org.au","03 5793 6100","03 5792 4193"
+"South Gippsland Hospital","87 Station Road Foster VIC 3960","Foster","3960","Chris Trotman","sghosp@sghs.com.au","03 5683 9777","03 5682 2178"
+"South West Healthcare","Ryot Street Warrnambool VIC 3280","Warrnambool","3280","Craig Fraser","ceo-office@swh.net.au","03 5563 1666","03 5563 1620"
+"South West Healthcare, Camperdown Campus","9 Robinson Street Camperdown VIC 3260","Camperdown","3260","Craig Fraser","ceo-office@swh.net.au","03 5593 7300","03 5593 2659"
+"South West Healthcare, Warrnambool Campus","Ryot Street Warrnambool VIC 3280","Warrnambool","3280","Craig Fraser","ceo-office@swh.net.au","03 5563 1666","03 5563 1660"
+"Stawell Regional Health","27-29 Sloane Street Stawell VIC 3380","Stawell","3380","Libby Fifis","info@srh.org.au","03 5358 2255","03 5358 8520"
+"Swan Hill District Health","48 Splatt Street Swan Hill VIC 3585","Swan Hill","3585","Peter Abraham","ceo.office@shdh.org.au","03 5033 9300","03 5032 9528"
+"Tallangatta Health Service","Barree Street Tallangatta VIC 3700","Tallangatta","3700","Denise Parry","ths@ths.vic.gov.au","02 6071 5200","02 6071 2795"
+"Terang and Mortlake Health Service","1 Austin Avenue Terang VIC 3264","Terang","3264","Julia Ogdin","exec@tmhs.vic.gov.au","03 5592 0222","03 5592 0250"
+"Timboon and District Healthcare Service","21 Hospital Road Timboon VIC 3268","Timboon","3268","Rebecca Van Wollingen","timboon@swarh.vic.gov.au","03 55586000","03 5598 3565"
+"West Gippsland Healthcare Group","41 Landsborough Street Warragul VIC 3820","Warragul","3820","Dan Weeks","info@wghg.com.au","03 5623 0611","03 5623 0896"
+"West Wimmera Health Service","49 Nelson Street Nhill VIC 3418","Nhill","3418","Ritchie Dodds","corporate@wwhs.net.au","03 5391 4222","03 5391 4228"
+"Western District Health Service","20 Foster Street Hamilton VIC 3300","Hamilton","3300","Rohan Fitzgerald","ceo@wdhs.net","03 5551 8222","03 5551 8300"
+"Western District Health Service, Coleraine Campus","71 McLeod Street Coleraine VIC 3315","Coleraine","3315","Rohan Fitzgerald","ceo@wdhs.net","03 5553 2000","03 5575 2312"
+"Wimmera Health Care Group","83 Baillie Street Horsham VIC 3400","Horsham","3400","Catherine Morley","info@whcg.org.au","03 5381 9111","03 5382 0829"
+"Yarram and District Health Service","85 Commercial Road Yarram VIC 3971","Yarram","3971","Bernadette Wardle","ceo@ydhs.com.au","03 5182 0222","03 5182 6081"
+"Yarrawonga Health","33 Piper Street Yarrawonga VIC 3730","Yarrawonga","3730","Elaine Mallows","info@yh.org.au","03 5743 8111","03 5744 1961"
+"Yea and District Memorial Hospital","45 Station Street Yea VIC 3717","Yea","3717","Cameron Butler","c.butler@mdh.org.au","03 5736 0400","03 5797 2391"
